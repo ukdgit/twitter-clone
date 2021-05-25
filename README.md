@@ -1,3 +1,8 @@
+This is a twitter clone.
+Tech stack: React as a front-end, Firebase as a database.
+![twitter](https://user-images.githubusercontent.com/78226651/119508369-5344fa80-bd8d-11eb-856f-b4dbfd094c4f.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
